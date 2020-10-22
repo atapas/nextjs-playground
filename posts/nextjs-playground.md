@@ -1,5 +1,5 @@
 ---
-title: 'What is NEXT.js Playground'
+title: 'What is NEXT.js Playground?'
 date: '2020-10-22'
 ---
 
