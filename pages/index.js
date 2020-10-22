@@ -22,7 +22,9 @@ export default function Home({ allPostsData }) {
           <title>Tapas Adhikary's Next.js Playground</title>
       </Head>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>
+          My Fake Blog 😉(Original @ <a href="https://blog.greenroots.info" target="_blank">GreenRoots Blog</a>)
+        </h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
@@ -37,6 +39,9 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
+      <footer>
+        Feeling good about it? You can contact me on <a href="https://twitter.com/tapasadhikary" target="_blank">Twitter</a>.
+      </footer>
     </Layout>
   )
 }
