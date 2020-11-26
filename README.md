@@ -1,6 +1,6 @@
 # Nextjs-Playground
 
-Initially created using [Learn Next.js](https://nextjs.org/learn). Changing and growing with the `NEXT.js` learning!
+Initially created using [Learn Next.js](https://nextjs.org/learn). Changing and growing with `NEXT.js` learning!
 
 # How to Run
 Clone and create `.env.local` file with the following content,
