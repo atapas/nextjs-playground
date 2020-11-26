@@ -13,7 +13,7 @@ NEXT_PUBLIC_ORIGINAL_BLOG_LINK=<YOUR_FAKE_ORIGINAL_BLOG_LINK>
 NEXT_PUBLIC_TWITTER_LINK=<YOUR_TWITTER_LINK>
 ```
 
-> Please Not: The app runs without these environment variables. These just makes it more fun!
+> Please Note: The app runs without these environment variables. These just makes it more fun!
 
 Run this command,
 
